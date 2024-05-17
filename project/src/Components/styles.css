@@ -1,0 +1,17 @@
+.background-container {
+    background-image: url('../images/addmembers1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Full height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .card {
+    width: 100%;
+    max-width: 500px;
+    background: rgba(255, 255, 255, 0.5); /* Slightly transparent background for the card */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
